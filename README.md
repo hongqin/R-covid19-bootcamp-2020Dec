@@ -10,3 +10,19 @@ Dec 19, 2020 <br>
 11am. Epidemiological modeling for COVID 19. Dr. Metewab Ayalew. https://youtu.be/4fxsjycTIlo 
 
 1:30pm. Basics coding of R.  Dr. Hong Qin. https://youtu.be/iFCQ6plYBCA 
+
+Dec 20, 2020
+1:30pm. Analyze a county-level COVID-19 dataset
+
+Dec 21, 2020
+1:30pm Student work on his/her own project, write report
+
+Dec 22, 2020
+1:30pm, Student work on his/her own project, write report, generate a video
+
+Dec 23, 2020
+1:30pm,  Revise report
+
+
+
+
