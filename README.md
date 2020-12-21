@@ -12,7 +12,7 @@ Dec 19, 2020 <br>
 1:30pm. Basics coding of R.  Dr. Hong Qin. https://youtu.be/iFCQ6plYBCA 
 
 Dec 20, 2020
-1:30pm. Analyze a county-level COVID-19 dataset
+1:30pm. Analyze a county-level COVID-19 dataset. Dr. Hong Qin. https://youtu.be/zgKd4Fwb5b0 
 
 Dec 21, 2020
 1:30pm Student work on his/her own project, write report
